@@ -1,0 +1,19 @@
+Python Operators(https://www.w3schools.com/python/python_operators.asp)
+Python Type Conversion(https://www.w3schools.com/python/gloss_python_type_conversion.asp)
+ - we can convert one numeric type to another 
+ - using built in function
+	
+-int()
+-float()
+-complex()
+-bool()
+
+Type Conversions
+int(float/numeric string)
+float(int/numeric string)
+bool(1/0)
+str(int/float/bool)
+chr(int)
+
+Built-in functions
+Library function
